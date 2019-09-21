@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFavJpopArtist</string>
+    <string name="about">Tentang</string>
+    <string name="singers_name">Nama</string>
+    <string name="list_singer">List Singer</string>
+    <string name="about_me">About me</string>
+    <string name="email">ardikatamah@gmail.com</string>
+    <string name="dev">Haikal Ardikatama</string>
+    <string name="list_singers">List Singers</string>
+</resources>
